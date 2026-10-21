@@ -1,0 +1,8 @@
+{
+  "runId": "20261021_181936",
+  "tests": {
+    "chromium › example.spec.ts › has title": "passed",
+    "chromium › example.spec.ts › get started link": "passed",
+    "chromium › 293_TTACart_POM.spec.ts › login and view the inventory": "passed"
+  }
+}
